@@ -6,8 +6,8 @@ excerpt: >-
   Originally founded as LabCare Marketing in 2004, we built a reputation for
   exceptional technical support, ensuring laboratories operated with precision
   and efficiency. For over a decade, we specialized in maintaining and servicing
-  laboratory equipment, ensuring uninterrupted operations for our
-  clients.Recognizing the industry's evolving needs, we took a bold step in
+  laboratory equipment, ensuring uninterrupted operations for our clients.
+  Recognizing the industry's evolving needs, we took a bold step in
   2017—expanding into importation, distribution, sales, and marketing of
   cutting-edge diagnostic equipment. With years of technical experience and a
   commitment to quality, we seamlessly merged the expertise of LabCare Marketing
