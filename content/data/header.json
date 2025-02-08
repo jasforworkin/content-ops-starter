@@ -4,14 +4,16 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "About Us",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Products",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Services",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,32 +39,39 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Contact us",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "label": "Facebook",
+                    "altText": "Facebook",
+                    "url": "facebook.com/mikensondiagnosticsupply",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "label": "Send email",
+                    "altText": "Play",
+                    "url": "mikensondiag@yahoo.com",
+                    "showIcon": true,
+                    "icon": "mail",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Contact Number",
                     "url": "/",
                     "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "showIcon": true
                 }
             ],
             "labelStyle": "secondary",

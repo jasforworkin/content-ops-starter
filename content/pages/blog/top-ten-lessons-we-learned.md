@@ -1,13 +1,19 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: Our Journey
 slug: top-ten-lessons-we-learned
-date: '2025-01-02'
+date: '2025-02-08'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Originally founded as LabCare Marketing in 2004, we built a reputation for
+  exceptional technical support, ensuring laboratories operated with precision
+  and efficiency. For over a decade, we specialized in maintaining and servicing
+  laboratory equipment, ensuring uninterrupted operations for our clients.
+  Recognizing the industry's evolving needs, we took a bold step in
+  2017—expanding into importation, distribution, sales, and marketing of
+  cutting-edge diagnostic equipment. With years of technical experience and a
+  commitment to quality, we seamlessly merged the expertise of LabCare Marketing
+  into what is now Mikenson Diagnostic Supply.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/REBRANDING.png
   altText: Thumbnail
   type: ImageBlock
   styles:
