@@ -70,6 +70,17 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
+                    "label": "Send email",
+                    "altText": "Play",
+                    "url": "mikensondiag@yahoo.com",
+                    "showIcon": true,
+                    "icon": "mail",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
