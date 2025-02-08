@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: MIKENSON DIAGNOSTIC SUPPLY
+      text: About Us
       color: text-dark
       type: TitleBlock
     subtitle: Precision. Reliability. Excellence.
