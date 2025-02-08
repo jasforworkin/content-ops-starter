@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Services",
+            "label": "Products",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
