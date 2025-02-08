@@ -54,14 +54,6 @@
                     "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "type": "Link",
                     "label": "Send email",
                     "altText": "Play",
