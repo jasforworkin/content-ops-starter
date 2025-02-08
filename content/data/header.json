@@ -13,8 +13,9 @@
     },
     "primaryLinks": [
         {
-            "label": "About Us",
-            "url": "/pricing",
+            "label": "About",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -22,8 +23,7 @@
         },
         {
             "label": "Products",
-            "altText": "Blog",
-            "url": "/blog",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
