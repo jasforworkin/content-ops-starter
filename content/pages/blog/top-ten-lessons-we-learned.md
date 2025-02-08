@@ -1,7 +1,7 @@
 ---
 title: Our Journey
 slug: top-ten-lessons-we-learned
-date: '2025-01-02'
+date: '2025-02-02'
 excerpt: >-
   Originally founded as LabCare Marketing in 2004, we built a reputation for
   exceptional technical support, ensuring laboratories operated with precision
