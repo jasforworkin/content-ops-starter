@@ -13,7 +13,7 @@ excerpt: >-
   commitment to quality, we seamlessly merged the expertise of LabCare Marketing
   into what is now Mikenson Diagnostic Supply.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/REBRANDING.png
   altText: Thumbnail
   type: ImageBlock
   styles:
