@@ -8,7 +8,7 @@ topSections:
       text: MIKENSON DIAGNOSTIC SUPPLY
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Precision. Reliability. Excellence.
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
