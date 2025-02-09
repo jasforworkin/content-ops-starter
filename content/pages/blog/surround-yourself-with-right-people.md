@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/PAMET DAVAO DEL NORTE.jpg
+  url: /images/gao suri.png
   styles:
     self:
       borderRadius: medium
