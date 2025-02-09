@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/gao suri.png
+  url: /images/SURIGAW.png
   styles:
     self:
       borderRadius: medium
