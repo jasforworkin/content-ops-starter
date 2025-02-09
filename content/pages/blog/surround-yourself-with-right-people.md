@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/convention2.png
+  url: /images/BIFOUR.png
   styles:
     self:
       borderRadius: medium
