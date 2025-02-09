@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/mini MDS LOGO.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -97,7 +97,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
