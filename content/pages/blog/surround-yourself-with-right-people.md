@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/SURIGAW.png
+  url: /images/convention2.png
   styles:
     self:
       borderRadius: medium
