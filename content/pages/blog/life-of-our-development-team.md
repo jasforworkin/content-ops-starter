@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/CONVENTION1 NO PEOPLE.png
+  url: /images/SURIGAW.png
   altText: Thumbnail
   type: ImageBlock
   styles:
